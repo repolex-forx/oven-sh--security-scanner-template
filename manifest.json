@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "oven-sh",
+  "repo": "security-scanner-template",
+  "versions": [
+    {
+      "commit": "a18eb0889a31e25199d6acbcf3b7ace83429aee5",
+      "parsed_at": "2026-10-10T13:03:30.764970+00:00",
+      "filetree": "filetree/a18eb0889a31e25199d6acbcf3b7ace83429aee5.nq.gz",
+      "blobs": [
+        "blob/17e3afcc1fdba02dc1c2725a21a2ab6fae4200ae.nq.gz",
+        "blob/28f1ba7565f46fb5074ad9a4f07c4cfc86dff4cc.nq.gz",
+        "blob/10465cdaf603f70e435a9453075f25f05da89d2a.nq.gz",
+        "blob/bcc9986605a12c0985456a2d087ae5263abf8fdf.nq.gz",
+        "blob/c08129e6b253bf956d460c3bdd63d897df70e9f6.nq.gz",
+        "blob/74ed34d29940699ac2ffab00c41925acac0f3d71.nq.gz",
+        "blob/2c6649c21b4fb3eef63cc308a12ce5feb63541ce.nq.gz",
+        "blob/3f5f86abc73dda8ff28dfed132a2edc85be2943a.nq.gz",
+        "blob/a91aec6dbed21e920b85d1667c86559a8a120b36.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
