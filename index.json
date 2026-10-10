@@ -1,0 +1,11 @@
+{
+  "org": "oven-sh",
+  "repo": "security-scanner-template",
+  "versions": [
+    {
+      "commit": "a18eb0889a31e25199d6acbcf3b7ace83429aee5",
+      "tag": "",
+      "parsed_at": "2026-10-10T13:08:37.465681+00:00"
+    }
+  ]
+}
