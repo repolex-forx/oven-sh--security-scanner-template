@@ -1,0 +1,7 @@
+[2026-10-10T13:06:56Z] === AST ITERATION 1 START | repo=oven-sh/security-scanner-template sha=a18eb088 ===
+[2026-10-10T13:06:56Z] [iter=1] PHASE START: ast repo=oven-sh/security-scanner-template sha=a18eb088
+[2026-10-10T13:06:56Z] [iter=1] Building AST aggregate chunks
+[2026-10-10T13:06:57Z] [iter=1] AST chunks built count=1 triples=5237
+[2026-10-10T13:06:57Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/a18eb0889a31e25199d6acbcf3b7ace83429aee5/.complete
+[2026-10-10T13:06:57Z] [iter=1] PHASE END: ast elapsed_s=1 elapsed_min=0.0
+[2026-10-10T13:06:57Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

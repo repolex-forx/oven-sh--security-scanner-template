@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/oven-sh/security-scanner-template/commit/a18eb0889a31e25199d6acbcf3b7ace83429aee5",
       "git:hexsha": "a18eb0889a31e25199d6acbcf3b7ace83429aee5",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
